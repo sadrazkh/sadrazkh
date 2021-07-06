@@ -1,6 +1,7 @@
 ### Hi I am Sadra 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrazkh&layout=compact)](https://github.com/sadrazkh)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadrazkh)](https://github.com/anuraghazra/sadrazkh)
 
 
 <!--
